@@ -1,0 +1,260 @@
+ID	Country	Region
+C1	Abkhazia	Other
+C2	Afghanistan	South Asia
+C3	Albania	East Europe
+C4	Algeria	North Africa
+C5	Andorra	West Europe
+C6	Angola	Central Africa
+C7	Argentina	South America
+C8	Armenia	East Europe
+C9	Australia	Oceania
+C10	Austria	West Europe
+C11	Austria (Customs)	West Europe
+C12	Azerbaijan	East Europe
+C13	Bahamas	Caribbean
+C14	Bahrain	Middle East
+C15	Bangladesh	South Asia
+C16	Barbados	Caribbean
+C17	Belarus	East Europe
+C18	Belgium	West Europe
+C19	Belgium-Luxembourg	West Europe
+C20	Belize	Central America
+C21	Benin	West Africa
+C22	Bermuda	Caribbean
+C23	Bhutan	South Asia
+C24	Bolivia	South America
+C25	Bosnia & Herzegovina	East Europe
+C26	Botswana	Southern Africa
+C27	Brazil	South America
+C28	Brunei Darussalam	SE Asia
+C29	Bulgaria	East Europe
+C30	Burkina Faso	West Africa
+C31	Burundi	East Africa
+C32	Cambodia	SE Asia
+C33	Cameroon	Central Africa
+C34	Canada	North America
+C35	Cape Verde	West Africa
+C36	Cayman Islands	Caribbean
+C37	Central African Republic	Central Africa
+C38	Ceuta	West Europe
+C39	Chad	Central Africa
+C40	Chile	South America
+C41	China	East Asia
+C42	China with HK ReExports	East Asia
+C43	Colombia	South America
+C44	Commercial or Military Secret	Other
+C45	Comoros	East Africa
+C46	Congo	Central Africa
+C47	"Congo, Dem. Rep."	Central Africa
+C48	Costa Rica	Central America
+C49	Cote d Ivoire	West Africa
+C50	Cote d'Ivoire	West Africa
+C51	Cote d'Ivoire (General)	West Africa
+C52	Country	Other
+C53	Country2	Other
+C54	Croatia	East Europe
+C55	Cuba	Caribbean
+C56	Curacao	South America
+C57	Cyprus	West Europe
+C58	Czech Republic	East Europe
+C59	Democratic Republic of the Congo	Central Africa
+C60	Denmark	West Europe
+C61	Djibouti	East Africa
+C62	Dominican Republic	Caribbean
+C63	DR Congo	Central Africa
+C64	Duty Free	Other
+C65	Ecuador	South America
+C66	Egypt	North Africa
+C67	Egypt (UN)	North Africa
+C68	El Salvador	Central America
+C69	Equatorial Guinea	Central Africa
+C70	Eritrea	East Africa
+C71	Estonia	East Europe
+C72	Ethiopia	East Africa
+C73	EU (External Trade)	Other
+C74	EU Suppression	Other
+C75	EU28 (External Trade)	West Europe
+C76	European Union	Other
+C77	Faroe Islands	West Europe
+C78	Fiji	Oceania
+C79	Finland	West Europe
+C80	France	West Europe
+C81	France (Customs)	West Europe
+C82	Free Trade Zones	Other
+C83	French Polynesia	Oceania
+C84	FTZ-Yumurtalik	East Europe
+C85	Gabon	Central Africa
+C86	Gambia	West Africa
+C87	Georgia	East Europe
+C88	Georgia (HS 10)	East Europe
+C89	Germany	West Europe
+C90	Germany (Customs)	West Europe
+C91	Ghana	West Africa
+C92	Gibraltar	West Europe
+C93	Great Britain	West Europe
+C94	Greece	West Europe
+C95	Greenland	Other
+C96	Grenada	Caribbean
+C97	Guatemala	Central America
+C98	Guinea	West Africa
+C99	Guinea-Bissau	West Africa
+C100	Guyana	South America
+C101	Haiti	Caribbean
+C102	High Seas	Other
+C103	Honduras	Central America
+C104	Hong Kong	East Asia
+C105	Hungary	East Europe
+C106	Iceland	West Europe
+C107	India	South Asia
+C108	Indonesia	SE Asia
+C109	Intra EU Stores & Provisions	West Europe
+C110	Iran	Middle East
+C111	Iraq	Middle East
+C112	Ireland	West Europe
+C113	Ireland (Customs)	West Europe
+C114	Israel	Middle East
+C115	Italy	West Europe
+C116	Italy Istat	West Europe
+C117	Jamaica	Caribbean
+C118	Japan	East Asia
+C119	Jordan	Middle East
+C120	Kazakhstan	East Europe
+C121	Kenya	East Africa
+C122	"Korea, North"	East Asia
+C123	"Korea, South"	East Asia
+C124	Kosovo	East Europe
+C125	Kuwait	Middle East
+C126	Kyrgyzstan	East Europe
+C127	Laos	SE Asia
+C128	Latvia	East Europe
+C129	Lebanon	Middle East
+C130	Lesotho	Southern Africa
+C131	Lesser Antilles	Caribbean
+C132	Liberia	West Africa
+C133	Libya	North Africa
+C134	Lithuania	East Europe
+C135	Luxembourg	West Europe
+C136	Macau	East Asia
+C137	Macedonia	East Europe
+C138	Madagascar	East Africa
+C139	Malawi	East Africa
+C140	Malaysia	East Asia
+C141	Maldives	South Asia
+C142	Mali	West Africa
+C143	Malta	West Europe
+C144	Marshall Islands	Oceania
+C145	Mauritania	West Africa
+C146	Mauritius	East Africa
+C147	Melilla	North Africa
+C148	Mexico	Central America
+C149	Micronesia (Federated States of)	Oceania
+C150	Moldova	East Europe
+C151	Mongolia	East Asia
+C152	Montenegro	East Europe
+C153	Morocco	North Africa
+C154	Mozambique	East Africa
+C155	Myanmar	SE Asia
+C156	Namibia	Southern Africa
+C157	Nepal	South Asia
+C158	Netherlands	West Europe
+C159	New Caledonia	Oceania
+C160	New Zealand	Oceania
+C161	Nicaragua	Central America
+C162	Niger	West Africa
+C163	Nigeria	West Africa
+C164	Niue	Oceania
+C165	Non-EU Suppression	Other
+C166	North Korea	East Asia
+C167	Northern Ireland	West Europe
+C168	Norway	West Europe
+C169	Not Determin Extra EU Trade	Other
+C170	Not Determin Intra EU Trade	Other
+C171	Not Determined	Other
+C172	Oman	Middle East
+C173	Other	Other
+C174	"Other Countries, NES"	Other
+C175	"Other Europe, N.E.S."	Other
+C176	Pakistan	South Asia
+C177	Panama	Central America
+C178	Panama (BOL)	Central America
+C179	Papua New Guinea	Oceania
+C180	Paraguay	South America
+C181	Peru	South America
+C182	Philippines	SE Asia
+C183	Poland	East Europe
+C184	Poland (Customs)	East Europe
+C185	Portugal	West Europe
+C186	Processing Zones & Assembling Companies	Other
+C187	Puerto Rico	Caribbean
+C188	Puerto Rico (U.S.)	Caribbean
+C189	Punta Pereira (Uruguay)	South America
+C190	Qatar	Middle East
+C191	Reunion	East Africa
+C192	Rio Negro (Uruguay)	South America
+C193	Romania	East Europe
+C194	Russia	East Europe
+C195	Rwanda	East Africa
+C196	Samoa (Western)	Oceania
+C197	Saudi Arabia	Middle East
+C198	Senegal	West Africa
+C199	Serbia	East Europe
+C200	Seychelles	East Africa
+C201	Sierra Leone	West Africa
+C202	Singapore	SE Asia
+C203	Sint Maarten	Caribbean
+C204	Slovakia	East Europe
+C205	Slovenia	East Europe
+C206	Solomon Islands	Oceania
+C207	Somalia	East Africa
+C208	South Africa	Southern Africa
+C209	South Korea	East Asia
+C210	South Ossetia	East Europe
+C211	South Sudan	Central Africa
+C212	Spain	West Europe
+C213	Spain (Customs)	West Europe
+C214	Sri Lanka	South Asia
+C215	St. Vincent & the Grenadines	Oceania
+C216	Sudan	North Africa
+C217	Suriname	South America
+C218	Swaziland	Southern Africa
+C219	Sweden	West Europe
+C220	Switzerland	West Europe
+C221	Syria	Middle East
+C222	Taiwan	East Asia
+C223	"Taiwan, China"	East Asia
+C224	Tajikistan	East Europe
+C225	Tanzania	East Africa
+C226	Thailand	SE Asia
+C227	Thailand (HS 10)	SE Asia
+C228	Togo	West Africa
+C229	Tonga	Oceania
+C230	Trinidad	Caribbean
+C231	Trinidad & Tobago	Caribbean
+C232	Tunisia	North Africa
+C233	Turk. Rep. of N. Cyprus	Middle East
+C234	Turkey	Middle East
+C235	Turkey (HS 8)	Middle East
+C236	Turkmenistan	East Europe
+C237	UAE	Middle East
+C238	Uganda	East Africa
+C239	UK	West Europe
+C240	Ukraine	East Europe
+C241	Unidentified Country	Other
+C242	United Arab Emirates	Middle East
+C243	United Kingdom	West Europe
+C244	United Kingdom HMRC	West Europe
+C245	United States	North America
+C246	United States (CIF)	North America
+C247	United States (Consumption/Domestic)	North America
+C248	United States (Duty Paid)	North America
+C249	United States (HS 8)	North America
+C250	Unknown Countries	Other
+C251	Uruguay	South America
+C252	USA	North America
+C253	Uzbekistan	East Europe
+C254	Vanuatu	Oceania
+C255	Venezuela	South America
+C256	Vietnam	SE Asia
+C257	Vietnam (BOL)	SE Asia
+C258	Zambia	East Africa
+C259	Zimbabwe	East Africa

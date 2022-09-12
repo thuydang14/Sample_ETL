@@ -1,0 +1,38 @@
+[2022-07-07 01:27:31,591] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: first_dag.import_to_export scheduled__2022-07-06T01:32:00+00:00 [queued]>
+[2022-07-07 01:27:31,607] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: first_dag.import_to_export scheduled__2022-07-06T01:32:00+00:00 [queued]>
+[2022-07-07 01:27:31,607] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 01:27:31,608] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-07 01:27:31,608] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-07 01:27:31,629] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): import_to_export> on 2022-07-06 01:32:00+00:00
+[2022-07-07 01:27:31,637] {standard_task_runner.py:52} INFO - Started process 298 to run task
+[2022-07-07 01:27:31,643] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'first_dag', 'import_to_export', 'scheduled__2022-07-06T01:32:00+00:00', '--job-id', '50', '--raw', '--subdir', 'DAGS_FOLDER/schedule.py', '--cfg-path', '/tmp/tmp8eqhxtmx', '--error-file', '/tmp/tmpr6ssiyff']
+[2022-07-07 01:27:31,645] {standard_task_runner.py:80} INFO - Job 50: Subtask import_to_export
+[2022-07-07 01:27:31,724] {task_command.py:370} INFO - Running <TaskInstance: first_dag.import_to_export scheduled__2022-07-06T01:32:00+00:00 [running]> on host e0840c2a17ac
+[2022-07-07 01:27:31,813] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=ThuyDang
+AIRFLOW_CTX_DAG_ID=first_dag
+AIRFLOW_CTX_TASK_ID=import_to_export
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-06T01:32:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-06T01:32:00+00:00
+[2022-07-07 01:27:31,822] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/schedule.py", line 10, in import_postgres
+    with pd.ExcelFile(file_customer) as xls:
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/excel/_base.py", line 1233, in __init__
+    self._reader = self._engines[engine](self._io, storage_options=storage_options)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/excel/_openpyxl.py", line 521, in __init__
+    import_optional_dependency("openpyxl")
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/compat/_optional.py", line 118, in import_optional_dependency
+    raise ImportError(msg) from None
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2022-07-07 01:27:31,881] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=first_dag, task_id=import_to_export, execution_date=20220706T013200, start_date=20220707T012731, end_date=20220707T012731
+[2022-07-07 01:27:31,893] {standard_task_runner.py:97} ERROR - Failed to execute job 50 for task import_to_export (Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.; 298)
+[2022-07-07 01:27:31,935] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-07-07 01:27:31,964] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
